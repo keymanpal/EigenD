@@ -13,3 +13,7 @@ eigend-gpl
 steinberg
 xcuserdata
 contents.xcworkspacedata
+.cproject
+.project
+.pydevproject
+.settings
